@@ -1,4 +1,4 @@
-# INET 3101 Lab 2 - Dynamic Memory Management - Mustafa Datib & Nadir Abdulkadir
+# INET 3101 Lab 2 - Dynamic Memory Management - Mustafa Dayib & Nadir Abdulkadir
 
 ## Project Overview
 This project is part of the INET 3101: C Programming Language and Applications course. The main focus of this lab is to demonstrate the use of dynamic memory management in C through the implementation of a simple in-memory database for storing records about various parts.
